@@ -1,0 +1,22 @@
+
+
+.quizQuestion {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    /* display: none; */
+  
+}
+
+
+.quizAnswers {
+    margin-right: 20px;
+    /* background-color: blue; */
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+.quizAnswers button{
+    margin: 0 20px;
+    cursor: pointer;
+    padding: 7px 15px;
+}
